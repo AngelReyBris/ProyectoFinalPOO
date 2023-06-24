@@ -1,0 +1,20 @@
+CREDENCIALES
+
+PARA EMPLEADOS:
+
+Empleado1: 
+Numero de trabajador: 001
+contraseña: password1
+Empleado2: 002
+Numero de trabajador:
+contraseña:password2
+
+PARA CLIENTES:
+
+Cliente1:
+correo: ana.gonzalez@example.com
+Contraseña: contrasena1
+
+Cliente2:
+Correo: pedro.rodriguez@example.com 
+contraseña: contrasena2
